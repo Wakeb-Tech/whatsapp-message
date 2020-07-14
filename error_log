@@ -1,0 +1,1 @@
+[28-Apr-2020 10:16:49 UTC] PHP Fatal error:  Method Twilio\TwiML\MessagingResponse::__toString() must not throw an exception, caught DOMException: Invalid Character Error in /home/hogpfd6aolqm/public_html/demo.wakeb.tech/app/Http/Controllers/WhatsController.php on line 0
