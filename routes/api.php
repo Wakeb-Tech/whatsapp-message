@@ -24,6 +24,7 @@ Route::post('rchsms/{id}', 'WhatsController@listenToRch');
 Route::post('wakebsms/{id}', 'WhatsController@listenToWakeb');
 Route::post('majdouiesms/{id}', 'WhatsController@listenToMajd');
 Route::post('tamkensms/{id}', 'WhatsController@listenToTamken');
+Route::post('leadersms/{id}', 'WhatsappController@listenToLeader');
 
 
 
